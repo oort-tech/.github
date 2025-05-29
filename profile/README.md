@@ -21,7 +21,7 @@ The integration of geo-distributed GPUs makes them cost-effective for AI model t
 
 **Olympus Protocol**
 
-The Olympus Protocol is a proprietary blockchain technology of OORT that can be deployed by any party interested. The detailed technical description and performance are given in the <a href=https://oort-website.standard.us-east-1.oortech.com/OORT_Yellow_Paper.pdf>Yellow Paper</a>. Connecting all DePin devices globally across OORT, Olympus uses its specific proof of honesty (PoH) consensus algorithm that ensures each node works transparently and utilizes network resources optimally in a decentralized manner.
+The Olympus Protocol is a proprietary blockchain technology of OORT that can be deployed by any party interested. The detailed technical description and performance are given in the <a href=https://blazebyte1.standard.us-east-1.oortstorages.com/computecoin-consensus-and-security.pdf>Yellow Paper</a>. Connecting all DePin devices globally across OORT, Olympus uses its specific proof of honesty (PoH) consensus algorithm that ensures each node works transparently and utilizes network resources optimally in a decentralized manner.
 <a href="https://www.forbes.com/sites/digital-assets/2024/02/24/decentralized-ai-on-blockchain-rivals-openais-lead/?sh=176a64ff7c28"> Learn more about the proof of honesty consensus algorithm</a>.
 
 <a href="https://cointelegraph.com/press-releases/dell-unveils-innovative-loyalty-program-in-japan-with-oort">***Dell Unveils Innovative Loyalty Program in Japan with OORT***</a>
